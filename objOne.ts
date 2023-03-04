@@ -1,5 +1,5 @@
 /*
-  try to upload to github
+  first push to github
 */
 
 newFunction();
